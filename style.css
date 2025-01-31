@@ -1,0 +1,208 @@
+.top {
+  background: #098F32;
+  color: white;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.bg-body {
+  background: darkgreen !important;
+}
+
+.dropdown:hover {
+  background: #ED7602;
+}
+
+.navbar-brand {
+  position: absolute;
+  top: -67px;
+  z-index: 9999;
+}
+.navbar-brand img {
+  border: 3px solid #ED7602;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  color: white;
+}
+
+.slidertext {
+  position: absolute;
+  top: -300px;
+  right: -100px;
+  color: white;
+  text-align: end;
+}
+
+.slidebtn {
+  background: #ED7602;
+  padding: 10px;
+}
+.slidebtn:hover {
+  background: #098F32;
+  z-index: 10000;
+}
+
+.box {
+  position: absolute;
+  width: 800px;
+  left: 300px;
+  top: 500px;
+  height: 60px;
+  background: gainsboro;
+  padding-right: 10px;
+}
+
+.aa {
+  background: #098F32;
+  padding: 20px 14px;
+  height: 60px;
+  color: white;
+  text-align: center;
+}
+
+.bb {
+  background: white;
+  margin: 15px 0px;
+  border: 1px solid grey;
+  height: 30px;
+  text-align: center;
+  padding-top: 3px;
+  color: black;
+}
+.bb:hover {
+  background: #098F32;
+}
+
+.cc {
+  background: white;
+  margin: 15px 0px;
+  border: 1px solid grey;
+  height: 30px;
+  text-align: center;
+  padding-top: 3px;
+  border: 1px solid #ED7602;
+  color: black;
+}
+.cc:hover {
+  background: #098F32;
+}
+
+.dd {
+  background: #ED7602;
+  margin: 15px 0px;
+  border: 1px solid grey;
+  height: 30px;
+  text-align: center;
+  padding-top: 3px;
+  color: white;
+}
+.dd:hover {
+  background: #098F32;
+}
+
+.third .heading {
+  background: #098F32;
+  padding: 10px 20px;
+  width: 600px;
+}
+.third p {
+  padding-top: 20px;
+  color: grey;
+  line-height: 1.7;
+  font-size: 17px;
+  text-align: justify;
+}
+.third .you {
+  background: #098F32;
+  padding: 10px 20px;
+  width: 310px;
+}
+.third .slidebtn {
+  padding-right: 10px;
+}
+
+.fifth .nav-pills .nav-link {
+  background: #ED7602 !important;
+  color: #212529;
+}
+.fifth .nav-pills .nav-link:hover {
+  background: green !important;
+}
+
+.fourth h2 {
+  color: #098F32;
+  text-align: center;
+}
+.fourth .niraj {
+  width: 400px;
+  height: 268px;
+  border: 2px solid #ED7602;
+  -webkit-transition: 0.9s;
+  transition: 0.9s;
+  overflow: hidden;
+  position: relative;
+}
+.fourth .niraj:hover img {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+.fourth .niraj:hover .sbox {
+  background: #098F32;
+}
+.fourth .niraj .sbox {
+  background: #ED7602;
+  width: 200px;
+  height: 40px;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  position: absolute;
+  bottom: 40px;
+}
+
+.fifth h2 {
+  color: #098F32;
+  text-align: center;
+}
+.fifth .nav-pills .nav-link {
+  background: #098F32;
+  color: white;
+}
+.fifth .fimg {
+  width: 420px;
+  height: 250px;
+  position: relative;
+}
+.fifth .fimg:hover {
+  opacity: 0.5;
+}
+.fifth .ifoot {
+  background: #ED7602;
+  width: 420px;
+  position: absolute;
+  margin-left: 0px;
+}
+.fifth .ifoot .green {
+  background: #098F32;
+}
+
+.sixth h2 {
+  color: #098F32;
+}
+.sixth .accordion-button {
+  background: green;
+}
+.sixth .bgsix {
+  height: 250px;
+  text-align: center;
+  padding-top: 50px;
+  background-image: url(https://img.freepik.com/premium-photo/couple-love-mountain-meets-sunrise-trekking_564714-20552.jpg);
+}
+.sixth .last h2 {
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */
